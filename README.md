@@ -99,4 +99,3 @@ plotStreep6=[locations:[icon:"none", data:[[x:74,y:84],[x:70,y:79]]],edges:[col_
 
  // hier word ook echt alles op het scherm gezet
 plotResult=descartes([plotWeg, plotBrug, plotHelling1, plotHelling2, plotStick, plotWhite, plotRed, plotNum1, plotNum2, plotPunt, plotDinges, plotDriehoekonder, plotDriehoekonder2, plotDriehoekboven, plotDriehoekboven2, plotStreep1, plotStreep2, plotStreep3, plotStreep4, plotStreep5, plotStreep6])
-
